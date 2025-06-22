@@ -1,3 +1,4 @@
 {
-"start": "python src/main.py"
+  "start": "uvicorn src.main:app --host 0.0.0.0 --port $PORT"
 }
+
