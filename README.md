@@ -1,1 +1,1 @@
-First time ysing an Api to impliment Languahe translation
+First time using an Api to impliment Languahe translation
